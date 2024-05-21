@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbpd_reference=self.webpackChunkbpd_reference||[]).push([[5427],{7528:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/bpd-reference/blog/tags/hello","allTagsPath":"/bpd-reference/blog/tags","count":2,"unlisted":false}')}}]);
