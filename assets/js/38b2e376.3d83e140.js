@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbpd_reference=self.webpackChunkbpd_reference||[]).push([[5521],{6036:e=>{e.exports=JSON.parse('{"permalink":"/bpd-reference/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
