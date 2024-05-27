@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbpd_reference=self.webpackChunkbpd_reference||[]).push([[5443],{7268:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/bpd-reference/blog/tags/docusaurus","allTagsPath":"/bpd-reference/blog/tags","count":4,"unlisted":false}')}}]);
